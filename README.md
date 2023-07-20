@@ -1,4 +1,4 @@
-# Elastic Stack(by codebangkok)
+# Elastic Stack
 
 #### Website
 * Elastic https://www.elastic.co
