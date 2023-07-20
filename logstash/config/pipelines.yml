@@ -1,5 +1,3 @@
-
-# pipelines.yml
 - pipeline.id: basic
   path.config: "${PWD}/pipeline/basic.logstash.conf"
 
